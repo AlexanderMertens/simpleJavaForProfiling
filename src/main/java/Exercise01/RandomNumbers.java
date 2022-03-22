@@ -9,7 +9,7 @@ public class RandomNumbers {
 
     public void go() {
         while (true) {
-            getArrayOfRandomNumbers();
+            int[] array = getArrayOfRandomNumbers();
         }
     }
 
